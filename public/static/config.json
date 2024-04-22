@@ -1,0 +1,4 @@
+{
+  "httpUrl": "http://192.168.20.28:9090/asset-manage",
+  "devHttpUrl": "/api"
+}
