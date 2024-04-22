@@ -9,6 +9,8 @@ import "element-plus/dist/index.css";
 import { createPinia } from "pinia";
 const pinia = createPinia();
 
+import './assets/css/reset.css'
+
 const app = createApp(App);
 
 // 使用router
